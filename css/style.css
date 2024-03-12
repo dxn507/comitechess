@@ -1,0 +1,85 @@
+
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+}
+.carousel-item{
+    max-height: 700px;
+}
+#nosotros{
+    background-color: #ccc;
+}
+.img_team{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+#team{
+    background-color: #f2f2f2;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:20px 10px;
+    border: none;
+}
+.card img{
+    margin:20px auto;
+}
+.card .redes_sociales ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.redes_sociales i{
+    font-size: 1.5em;
+    margin-left: .5em;
+
+}
+#testimonial{
+background-color: #8a664d;
+}
+.testimonial-card .card-up {
+    height: 120px;
+    overflow: hidden;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+  }
+  .testimonial-card .avatar {
+    width: 110px;
+    margin-top: -60px;
+    overflow: hidden;
+    border: 3px solid #fff;
+    border-radius: 50%;
+  }
+  #testimonial .start{
+    color: gold;
+  }
+
+#contacto{
+    background: #ccc;
+}
+#contacto form{
+    margin: auto;
+    max-width: 600px;
+}
+footer li a{
+    padding: 1em;
+    border-radius: 50%;
+    cursor: pointer;
+} 
+footer li a:hover i{
+    color: #fff;
+}
+footer ul li a i{
+    font-size: 1.5em;
+
+}
+footer .texto_claro{
+    color: #fff;
+}
+   
